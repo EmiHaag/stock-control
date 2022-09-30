@@ -7,4 +7,5 @@ __pycache__/
 #exclude files with sensible info
 files/
 
-
+#exlude image folder not necesary on remote repo
+img/
