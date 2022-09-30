@@ -1,0 +1,10 @@
+#exclude .vscode temporary files
+.vscode/
+
+#exclude __pychache__ folder
+__pycache__/
+
+#exclude files with sensible info
+files/
+
+
