@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 def current_ce_stock(ce_id):
     stock = []
-    url = "http://fls.ncr.com/cgi-bin/global.pl?country=6905&ce="+ce_id+"&report=OH&B1=Submit+Query"
+    url = "[your-url]"
     try:
         response = requests.get(url)
 
