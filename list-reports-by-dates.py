@@ -27,9 +27,9 @@ def getItemsFromFiles(dir_path):
 #return => 
 #report date : 08/09/2022 
 #           added 1 
-#               8770321277 DOCUMENT PROOF OF TECHNICAL VI***4***
+#               partNumber Details
 #           removed 1
-#               8770321277 DOCUMENT PROOF OF TECHNICAL VI***4***
+#               partNumber Details
 #return a list of all reports ordered by date 
 def get_report_list():
 
